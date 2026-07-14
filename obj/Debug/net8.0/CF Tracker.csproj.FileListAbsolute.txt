@@ -1,0 +1,14 @@
+D:\Projects\CF Tracker\bin\Debug\net8.0\CF Tracker.exe
+D:\Projects\CF Tracker\bin\Debug\net8.0\CF Tracker.deps.json
+D:\Projects\CF Tracker\bin\Debug\net8.0\CF Tracker.runtimeconfig.json
+D:\Projects\CF Tracker\bin\Debug\net8.0\CF Tracker.dll
+D:\Projects\CF Tracker\bin\Debug\net8.0\CF Tracker.pdb
+D:\Projects\CF Tracker\obj\Debug\net8.0\CF Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CF Tracker\obj\Debug\net8.0\CF Tracker.AssemblyInfoInputs.cache
+D:\Projects\CF Tracker\obj\Debug\net8.0\CF Tracker.AssemblyInfo.cs
+D:\Projects\CF Tracker\obj\Debug\net8.0\CF Tracker.csproj.CoreCompileInputs.cache
+D:\Projects\CF Tracker\obj\Debug\net8.0\CF Tracker.dll
+D:\Projects\CF Tracker\obj\Debug\net8.0\refint\CF Tracker.dll
+D:\Projects\CF Tracker\obj\Debug\net8.0\CF Tracker.pdb
+D:\Projects\CF Tracker\obj\Debug\net8.0\CF Tracker.genruntimeconfig.cache
+D:\Projects\CF Tracker\obj\Debug\net8.0\ref\CF Tracker.dll

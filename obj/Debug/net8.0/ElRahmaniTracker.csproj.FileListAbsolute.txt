@@ -1,0 +1,15 @@
+D:\reprository\ElRahmani-Tracker\bin\Debug\net8.0\ElRahmaniTracker.exe
+D:\reprository\ElRahmani-Tracker\bin\Debug\net8.0\ElRahmaniTracker.deps.json
+D:\reprository\ElRahmani-Tracker\bin\Debug\net8.0\ElRahmaniTracker.runtimeconfig.json
+D:\reprository\ElRahmani-Tracker\bin\Debug\net8.0\ElRahmaniTracker.dll
+D:\reprository\ElRahmani-Tracker\bin\Debug\net8.0\ElRahmaniTracker.pdb
+D:\reprository\ElRahmani-Tracker\obj\Debug\net8.0\ElRahmaniTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\reprository\ElRahmani-Tracker\obj\Debug\net8.0\ElRahmaniTracker.AssemblyInfoInputs.cache
+D:\reprository\ElRahmani-Tracker\obj\Debug\net8.0\ElRahmaniTracker.AssemblyInfo.cs
+D:\reprository\ElRahmani-Tracker\obj\Debug\net8.0\ElRahmaniTracker.csproj.CoreCompileInputs.cache
+D:\reprository\ElRahmani-Tracker\obj\Debug\net8.0\ElRahmaniTracker.sourcelink.json
+D:\reprository\ElRahmani-Tracker\obj\Debug\net8.0\ElRahmaniTracker.dll
+D:\reprository\ElRahmani-Tracker\obj\Debug\net8.0\refint\ElRahmaniTracker.dll
+D:\reprository\ElRahmani-Tracker\obj\Debug\net8.0\ElRahmaniTracker.pdb
+D:\reprository\ElRahmani-Tracker\obj\Debug\net8.0\ElRahmaniTracker.genruntimeconfig.cache
+D:\reprository\ElRahmani-Tracker\obj\Debug\net8.0\ref\ElRahmaniTracker.dll

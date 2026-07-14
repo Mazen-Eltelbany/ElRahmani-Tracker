@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ElRahmaniTracker/1.0.0": {
+        "runtime": {
+          "ElRahmaniTracker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElRahmaniTracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
