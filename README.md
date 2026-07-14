@@ -135,19 +135,19 @@ cd ElRahmani-Tracker
 ### Restore dependencies
 
 ```bash
-dotnet restore
+dotnet restore ElRahmani-Tracker.sln
 ```
 
 ### Build the project
 
 ```bash
-dotnet build
+dotnet build ElRahmani-Tracker.sln
 ```
 
 ### Run the application
 
 ```bash
-dotnet run
+dotnet run --project ElRahmaniTracker.csproj
 ```
 
 ---
