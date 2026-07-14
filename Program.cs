@@ -55,6 +55,8 @@ class CFTracker
     }
     static async Task Main(string[] args)
     {
+        Console.Clear();
+        Console.Title = "ElRahmani Codeforces Tracker";
         client.BaseAddress = new Uri("https://codeforces.com/");
         await GetAllSolvedProblems("Mazen_Eltelbany");
         var oneWeekAgo = DateTimeOffset.UtcNow.AddDays(-7);
