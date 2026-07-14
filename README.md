@@ -33,7 +33,7 @@ You can easily modify the usernames inside `Program.cs` to track your own team.
 ## Screenshot
 
 ```markdown
-![Tracker Screenshot](assets/screenshot.png)
+[Tracker Screenshot](assets/project.png)
 ```
 ---
 
