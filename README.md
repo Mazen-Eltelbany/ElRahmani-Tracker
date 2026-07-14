@@ -123,7 +123,7 @@ dotnet --version
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/ElRahmani-Tracker.git
+git clone https://github.com/Mazen-Eltelbany/ElRahmani-Tracker.git
 ```
 
 ### Enter the project directory
