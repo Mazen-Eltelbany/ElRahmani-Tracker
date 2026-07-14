@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElRahmaniTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32e7ab376694d61a880fc4ab3123cf87c454b794")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a737e3cc3464e3e00456eceadc80b847c43e6c45")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElRahmaniTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElRahmaniTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
